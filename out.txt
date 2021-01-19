@@ -1,0 +1,4 @@
+### Grayscale denoising ###
+	PSNR noisy 20.16dB
+	PSNR denoised 49.46dB
+	Runtime 0.8515s
